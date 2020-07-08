@@ -1,2 +1,2 @@
 # TractorKit-Board
-The TractorKit board (Eagle project)
+The TractorKit board (KiCAD project)
