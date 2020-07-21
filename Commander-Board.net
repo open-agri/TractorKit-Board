@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/riccardo/Projects/OpenAgri/TractorKit-Commander-Board/Commander-Board.sch)
-    (date "Thu 09 Jul 2020 12:51:43 AM CEST")
+    (date "Thu 09 Jul 2020 07:57:27 PM CEST")
     (tool "Eeschema 5.1.5+dfsg1-2build2")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -38,6 +38,7 @@
       (tstamp 5EB78CC8))
     (comp (ref SW3)
       (value Rotary_Encoder)
+      (footprint ILI9488_Display:RotaryEncoder_Alps_EC16B04)
       (datasheet ~)
       (libsource (lib Device) (part Rotary_Encoder) (description "Rotary encoder, dual channel, incremental quadrate outputs"))
       (sheetpath (names /) (tstamps /))
