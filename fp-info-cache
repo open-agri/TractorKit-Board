@@ -1,4 +1,4 @@
-16922568693190654
+16924165092801654
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -46962,6 +46962,13 @@ ILI9488_Display
 0
 18
 18
+ILI9488_Display
+QRCODE
+
+
+0
+0
+0
 ILI9488_Display
 RotaryEncoder_Alps_EC16B04
 
