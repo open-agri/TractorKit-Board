@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Commander-Board-rescue)(type Legacy)(uri ${KIPRJMOD}/Commander-Board-rescue.lib)(options "")(descr ""))
+)
